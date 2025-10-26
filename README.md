@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YellowToby
+- 👋 Hi, I’m Kurt Louise
 - 👀 I’m interested in ...Game dev and pixel art
 - 🌱 I’m currently learning ...Coding GdScript
 - 💞️ I’m looking to collaborate on ...Game Dev programming in Godot
