@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Kurt Louise
-- 👀 I’m interested in ...Game dev and pixel art
-- 🌱 I’m currently learning ...Coding GdScript
+- 👀 I’m interested in ...Game dev/Pixel art/Software
+- 🌱 I’m currently learning ...Coding GdScript/JavaScript/C++
 - 💞️ I’m looking to collaborate on ...Game Dev programming in Godot
-- 📫 How to reach me ...
+- 📫 How to reach me ...kurttobylouise@gmail.coming
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...
+
 
 <!---
 YellowToby/YellowToby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
